@@ -1,0 +1,17 @@
+{
+  "name": "ratings",
+  "version": "0.1.0",
+  "description": "Rating",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo todo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {}
+}
